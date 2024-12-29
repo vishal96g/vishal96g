@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">I work with</h2>
+<h2 align="left">👨‍💻 I work with</h2>
 
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/> 
@@ -41,3 +41,11 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="70" height="70"/> </a> 
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="70" height="70"/> </a> 
    </p>
+
+   ###
+
+<h2 align="left">🎯 Get in Touch </h2>
+  
+<p align="left"> Email: gupta.vishal691996@gmail.com <br> 
+<p align="left"> LinkedIn: <a href="https://linkedin.com/in/vishal96g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal96g" height="30" width="40" /></a> <br> 
+
