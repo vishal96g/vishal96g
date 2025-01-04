@@ -9,13 +9,15 @@
 <h2 align="left">🔧 Tech Stack</h2>
 
 ###
-<p align="left">✨ Cloud: AWS <br>
-<p align="left">🚀 Version Control: Git, GitHub <br>
-<p align="left">📚 CI/CD: Jenkins <br>
-<p align="left">🎯 Containers: Docker, Kubernetes <br>
+<p align="left">✨ Cloud: AWS </p>
+<p align="left">🚀 Version Control: Git, GitHub </p>
+<p align="left">📚 CI/CD: Jenkins </p>
+<p align="left">🎯 Containers: Docker, Kubernetes </p>
 <p align="left">🎲 IaC: Terraform </p>
 <p align="left">🔧 Automation: Bash </p>
+<p align="left">📚 Databases: MySQL, Oracle </p>
 <p align="left">👨‍💻 Monitoring Tool: Prometheus, Grafana </p>
+<p align="left">🚀 Operating System: Linux </p>
 
 ###
 
